@@ -9,5 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: you can call Log.wtf() in dire situation 🙃
 
 
-![repos-per-language](https://github.com/user-attachments/assets/ec51716d-4173-465b-96b9-a27bd331dbab)
+![repos-per-language](https://github.com/user-attachments/assets/ec51716d-4173-465b-96b9-a27bd331dbab) ![productive-time (1)](https://github.com/user-attachments/assets/3493eae6-6fc0-44e9-a364-aef27afa2931)
 ![profile-details](https://github.com/user-attachments/assets/e486b371-8ade-4a36-9de7-ae6cd63e9fce)
+
+
